@@ -13,7 +13,7 @@
     - It subscribes to the rostopic (red_coordinates, blue_coordinates, yellow_coordinates) to fetch the coordinates of the blocks in order to decide the move</br>
   - Action - to move the robot arm. 
     - According to the moves , this node executes the action </br>
-os of the scenarios :
+- Below are the videos of the scenarios implementation :
   - 1. https://youtu.be/tCzIfFm6vDE</br>
   - 2. https://youtu.be/u2bcYT2Wfvk</br>
 ##
